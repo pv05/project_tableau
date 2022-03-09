@@ -1,0 +1,1 @@
+In this tableau project data processed from SQL database not CSV file
